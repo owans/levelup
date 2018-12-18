@@ -1,0 +1,7 @@
+Series 1:
+
+I grasped the idea of git and version control systems on the 16th Dec, 2018.
+
+Terminologies i immediately learnt are;
+1. Centralized systems
+2. Decentralized systems
