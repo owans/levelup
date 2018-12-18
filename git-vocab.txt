@@ -2,6 +2,16 @@ Series 1:
 
 I grasped the idea of git and version control systems on the 16th Dec, 2018.
 
+Meaning of git repository
+
+A git repository allows is a virtual storage of one's project, it allows you to save versions of your code which i can access when needed.
+
 Terminologies i immediately learnt are;
 1. Centralized systems
-2. Decentralized systems
+this system where all there is only one central server that contains all the codes of everyone
+
+2. Distributed systems
+this is why git exists, it is a method of storing codes of different individuals who work as a team on their various systems, leading to various copies of code on everybody's system,
+rather than one server.
+
+
