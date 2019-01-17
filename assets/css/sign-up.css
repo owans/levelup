@@ -1,0 +1,61 @@
+body { 
+    background: url("../images/leaf.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+
+.form-container{
+width: 400px;
+margin: auto;
+padding-top: 30px;
+background: black;
+opacity: 0.3;
+}
+
+.form-container input{
+background: transparent!important;
+}
+
+.form-group label{
+color: #ffffff!important;
+}
+
+.form-container my-1 mr-2{
+color: white;
+}
+
+.form-container .custom-select{
+background: transparent!important;
+}
+
+.form-container:hover{
+background-color: transparent!important;
+opacity: 0.5!important;
+}
+
+.navbar{
+margin: 0px;
+border: 0px;
+padding: 0px;
+background-color: #000!important;
+}
+
+.navbar .navbar-brand{
+color: white!important;
+}
+
+.nav-item .nav-link{
+color: rgb(241, 237, 237)!important;
+}
+
+.btn-primary{
+    background: red;
+}
